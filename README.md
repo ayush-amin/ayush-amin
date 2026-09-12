@@ -1,5 +1,5 @@
 # 💫 About Me:
-My interests lie at the intersection of backend development, system design, and AI-powered applications. I’ve worked on building RESTful APIs, concurrent services, clean-architecture backends, and full-stack platforms, with hands-on experience in Go, Python, FastAPI, Node.js, SQL/SQLite, Docker, and cloud deployments. Recently, I’ve been diving deeper into Go to better understand concurrency, performance, and long-running services beyond traditional JavaScript stacks.<br><br>On the AI side, I’ve built and shipped Retrieval-Augmented Generation (RAG) systems that interact with real documents and users, focusing on correctness, context handling, and backend integration rather than just model demos. I’m particularly interested in production AI workflows, backend orchestration, and building systems that combine ML with strong software engineering foundations.<br><br>I’ve also completed internships where I worked on backend integration, testing, automation, cloud deployment, and documentation, giving me exposure to how real teams ship and maintain software.<br><br>I’m driven by curiosity, enjoy learning systems from the ground up, and aim to grow as a software engineer who can design, build, and scale dependable products.
+I build **applied AI systems on top of real backend engineering** — most of my recent work has been on LLM-powered services that run in production rather than in a notebook.<br><br>Day to day that means **multi-agent orchestration**: services that take a user's message, use an LLM to plan which tools and downstream services to call, execute them, and stream a grounded answer back. Around that I've worked on **RAG pipelines** over real documents, **natural-language query layers** that translate a question into a structured query against live data, **agentic tool/capability interfaces (MCP-style)**, and **recommendation services**. The parts I care about are the unglamorous ones — grounding, context handling, evaluation, latency, and what the system does when the model is wrong.<br><br>None of that holds up without the backend underneath it, which is the other half of my work: **Go** and **Python/FastAPI** services built on clean architecture, REST and gRPC APIs, **PostgreSQL, Redis, Kafka, Docker** and cloud deployments — concurrency, streaming, and long-running workloads included. Go is where I've gone deepest on performance and concurrent design.<br><br>I've also completed internships covering backend integration, testing, automation, cloud deployment, and documentation, which showed me how real teams ship and maintain software.<br><br>Driven by curiosity, I like learning systems from the ground up — currently working through transformer internals and system design fundamentals, and writing them up as I go.
 
 
 ## 🌐 Socials:
@@ -14,13 +14,9 @@ My interests lie at the intersection of backend development, system design, and 
 
 <img alt="Contribution streak" width="60%" src="https://streak-stats.demolab.com?user=ayush-amin&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" />
 
-<img alt="Contribution stats" width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayush-amin&theme=github_dark" />
-&nbsp;&nbsp;
-<img alt="Most productive hours" width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayush-amin&theme=github_dark&utcOffset=5.5" />
-
 <img alt="Top languages by repo" width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayush-amin&theme=github_dark" />
 &nbsp;&nbsp;
-<img alt="Top languages by commit" width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayush-amin&theme=github_dark" />
+<img alt="Most productive hours" width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayush-amin&theme=github_dark&utcOffset=5.5" />
 
 </div>
 
