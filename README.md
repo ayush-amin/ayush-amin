@@ -12,9 +12,11 @@ My interests lie at the intersection of backend development, system design, and 
 
 <img alt="Profile overview" width="88%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayush-amin&theme=github_dark" />
 
+<img alt="Contribution streak" width="60%" src="https://streak-stats.demolab.com?user=ayush-amin&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" />
+
 <img alt="Contribution stats" width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayush-amin&theme=github_dark" />
 &nbsp;&nbsp;
-<img alt="Contribution streak" width="43%" src="https://streak-stats.demolab.com?user=ayush-amin&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" />
+<img alt="Most productive hours" width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayush-amin&theme=github_dark&utcOffset=5.5" />
 
 <img alt="Top languages by repo" width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayush-amin&theme=github_dark" />
 &nbsp;&nbsp;
